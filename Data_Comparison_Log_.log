@@ -1,0 +1,2336 @@
+[Jul 02 23:56:36] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 02 23:56:45] INFO  (Student.java:39) - Enter Student Id
+[Jul 03 00:02:21] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 03 00:03:17] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 03 00:03:29] INFO  (Quiz.java:131) - Enter name and password
+[Jul 03 00:03:29] INFO  (Quiz.java:137) - name : 
+[Jul 03 00:03:36] INFO  (Quiz.java:139) - password : 
+[Jul 03 00:03:40] INFO  (Quiz.java:146) - ****************************************************
+[Jul 03 00:03:40] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 03 00:03:40] INFO  (Quiz.java:148) - ****************************************************
+[Jul 03 00:03:40] INFO  (Quiz.java:174) - Menu
+[Jul 03 00:03:40] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 03 00:03:40] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 03 00:03:40] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 03 00:03:40] INFO  (Quiz.java:179) - 4. Update
+[Jul 03 00:03:40] INFO  (Quiz.java:181) - Enter an Option
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 0	;	What is Java?
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 1	;	what is cricket
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 2	;	sports is what
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 3	;	WHAT IS PYTHON
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 4	;	WHAT IS CRICK
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 5	;	question
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 6	;	ccccccccccccccccccc
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 7	;	IUSHGQOEIDGRB
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 8	;	epzoufbqzpiugfb
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 9	;	aizuobdpsvb
+[Jul 03 00:04:41] INFO  (Quiz.java:232) - 10	;	vnvquopudsfgbpigu
+[Jul 03 00:04:41] INFO  (Quiz.java:174) - Menu
+[Jul 03 00:04:41] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 03 00:04:41] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 03 00:04:41] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 03 00:04:41] INFO  (Quiz.java:179) - 4. Update
+[Jul 03 00:04:41] INFO  (Quiz.java:181) - Enter an Option
+[Jul 03 00:05:09] INFO  (Quiz.java:192) - 2
+[Jul 03 00:05:09] INFO  (Question.java:68) - Enter the topic
+[Jul 03 00:05:15] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 03 00:05:20] INFO  (Question.java:74) - Enter a Question
+[Jul 03 00:05:28] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 03 00:05:32] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:05:42] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:05:45] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:05:49] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:05:58] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 03 00:05:58] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 03 00:07:21] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 03 00:07:44] INFO  (Quiz.java:131) - Enter name and password
+[Jul 03 00:07:44] INFO  (Quiz.java:137) - name : 
+[Jul 03 00:08:18] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 03 00:08:25] INFO  (Quiz.java:131) - Enter name and password
+[Jul 03 00:08:25] INFO  (Quiz.java:137) - name : 
+[Jul 03 00:08:28] INFO  (Quiz.java:139) - password : 
+[Jul 03 00:08:31] INFO  (Quiz.java:146) - ****************************************************
+[Jul 03 00:08:31] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 03 00:08:31] INFO  (Quiz.java:148) - ****************************************************
+[Jul 03 00:08:31] INFO  (Quiz.java:174) - Menu
+[Jul 03 00:08:31] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 03 00:08:31] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 03 00:08:31] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 03 00:08:31] INFO  (Quiz.java:179) - 4. Update
+[Jul 03 00:08:31] INFO  (Quiz.java:181) - Enter an Option
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 0	;	What is Java?
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 1	;	what is cricket
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 2	;	sports is what
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 3	;	WHAT IS PYTHON
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 4	;	WHAT IS CRICK
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 5	;	question
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 6	;	ccccccccccccccccccc
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 7	;	IUSHGQOEIDGRB
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 8	;	epzoufbqzpiugfb
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 9	;	aizuobdpsvb
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 10	;	vnvquopudsfgbpigu
+[Jul 03 00:08:36] INFO  (Quiz.java:232) - 11	;	aze
+[Jul 03 00:08:36] INFO  (Quiz.java:174) - Menu
+[Jul 03 00:08:36] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 03 00:08:36] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 03 00:08:36] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 03 00:08:36] INFO  (Quiz.java:179) - 4. Update
+[Jul 03 00:08:36] INFO  (Quiz.java:181) - Enter an Option
+[Jul 03 00:08:50] INFO  (Quiz.java:192) - 2
+[Jul 03 00:08:50] INFO  (Question.java:68) - Enter the topic
+[Jul 03 00:08:55] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 03 00:08:58] INFO  (Question.java:74) - Enter a Question
+[Jul 03 00:09:03] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 03 00:09:06] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:09:10] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:09:14] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:09:17] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:09:19] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 03 00:09:19] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 03 00:11:58] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 03 00:12:13] INFO  (Quiz.java:131) - Enter name and password
+[Jul 03 00:12:13] INFO  (Quiz.java:137) - name : 
+[Jul 03 00:12:23] INFO  (Quiz.java:139) - password : 
+[Jul 03 00:12:27] INFO  (Quiz.java:146) - ****************************************************
+[Jul 03 00:12:27] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 03 00:12:27] INFO  (Quiz.java:148) - ****************************************************
+[Jul 03 00:12:27] INFO  (Quiz.java:174) - Menu
+[Jul 03 00:12:27] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 03 00:12:27] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 03 00:12:27] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 03 00:12:27] INFO  (Quiz.java:179) - 4. Update
+[Jul 03 00:12:27] INFO  (Quiz.java:181) - Enter an Option
+[Jul 03 00:12:32] INFO  (Quiz.java:192) - 2
+[Jul 03 00:12:32] INFO  (Question.java:68) - Enter the topic
+[Jul 03 00:12:37] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 03 00:12:46] INFO  (Question.java:74) - Enter a Question
+[Jul 03 00:13:14] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 03 00:13:17] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:13:20] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:13:22] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:13:26] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:13:28] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 03 00:13:28] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 03 00:31:27] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 03 00:31:32] INFO  (Quiz.java:131) - Enter name and password
+[Jul 03 00:31:32] INFO  (Quiz.java:137) - name : 
+[Jul 03 00:31:36] INFO  (Quiz.java:139) - password : 
+[Jul 03 00:31:52] INFO  (Quiz.java:146) - ****************************************************
+[Jul 03 00:31:52] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 03 00:31:52] INFO  (Quiz.java:148) - ****************************************************
+[Jul 03 00:31:52] INFO  (Quiz.java:174) - Menu
+[Jul 03 00:31:52] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 03 00:31:52] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 03 00:31:52] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 03 00:31:52] INFO  (Quiz.java:179) - 4. Update
+[Jul 03 00:31:52] INFO  (Quiz.java:181) - Enter an Option
+[Jul 03 00:32:11] INFO  (Quiz.java:192) - 2
+[Jul 03 00:32:11] INFO  (Question.java:68) - Enter the topic
+[Jul 03 00:32:16] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 03 00:32:20] INFO  (Question.java:74) - Enter a Question
+[Jul 03 00:32:22] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 03 00:32:26] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:32:28] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:32:31] INFO  (Question.java:92) - Enter  choice
+[Jul 03 00:32:33] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 00:32:34] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 03 00:32:34] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 03 09:33:16] ERROR (DatabaseConnection.java:32) - org.h2.jdbc.JdbcSQLNonTransientConnectionException: Connection is broken: "java.net.ConnectException: Connection refused: connect: localhost" [90067-199]
+[Jul 03 09:33:16] INFO  (DatabaseConnection.java:33) - Database connection failed...
+[Jul 03 09:34:27] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 03 09:34:39] INFO  (Quiz.java:131) - Enter name and password
+[Jul 03 09:34:39] INFO  (Quiz.java:137) - name : 
+[Jul 03 09:34:50] INFO  (Quiz.java:139) - password : 
+[Jul 03 09:34:54] INFO  (Quiz.java:146) - ****************************************************
+[Jul 03 09:34:54] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 03 09:34:54] INFO  (Quiz.java:148) - ****************************************************
+[Jul 03 09:34:54] INFO  (Quiz.java:174) - Menu
+[Jul 03 09:34:54] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 03 09:34:54] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 03 09:34:54] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 03 09:34:54] INFO  (Quiz.java:179) - 4. Update
+[Jul 03 09:34:54] INFO  (Quiz.java:181) - Enter an Option
+[Jul 03 09:35:13] INFO  (Quiz.java:192) - 2
+[Jul 03 09:35:13] INFO  (Question.java:68) - Enter the topic
+[Jul 03 09:35:19] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 03 09:35:22] INFO  (Question.java:74) - Enter a Question
+[Jul 03 09:35:26] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 03 09:35:29] INFO  (Question.java:92) - Enter  choice
+[Jul 03 09:35:31] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 09:35:34] INFO  (Question.java:92) - Enter  choice
+[Jul 03 09:35:35] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 03 09:35:39] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 03 09:35:39] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 00:25:10] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 00:25:15] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 00:25:15] INFO  (Quiz.java:137) - name : 
+[Jul 04 00:25:21] INFO  (Quiz.java:139) - password : 
+[Jul 04 00:25:24] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 00:25:24] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 00:25:24] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 00:25:24] INFO  (Quiz.java:174) - Menu
+[Jul 04 00:25:24] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 00:25:24] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 00:25:24] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 00:25:24] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 00:25:24] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 00:25:28] INFO  (Quiz.java:192) - 2
+[Jul 04 00:25:28] INFO  (Question.java:68) - Enter the topic
+[Jul 04 00:25:32] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 00:25:34] INFO  (Question.java:74) - Enter a Question
+[Jul 04 00:25:37] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 00:25:40] INFO  (Question.java:92) - Enter  choice
+[Jul 04 00:25:42] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 00:25:44] INFO  (Question.java:92) - Enter  choice
+[Jul 04 00:25:46] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 00:25:49] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 00:25:49] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 00:29:16] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 00:29:25] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 00:29:25] INFO  (Quiz.java:137) - name : 
+[Jul 04 00:29:30] INFO  (Quiz.java:139) - password : 
+[Jul 04 00:29:33] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 00:29:33] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 00:29:33] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 00:29:33] INFO  (Quiz.java:174) - Menu
+[Jul 04 00:29:33] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 00:29:33] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 00:29:33] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 00:29:33] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 00:29:33] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 00:29:40] INFO  (Quiz.java:192) - 2
+[Jul 04 00:29:40] INFO  (Question.java:68) - Enter the topic
+[Jul 04 00:30:27] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 00:31:22] INFO  (Question.java:74) - Enter a Question
+[Jul 04 00:31:33] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 00:31:39] INFO  (Question.java:92) - Enter  choice
+[Jul 04 00:31:43] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 00:31:45] INFO  (Question.java:92) - Enter  choice
+[Jul 04 00:31:47] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 00:33:43] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 00:33:43] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 07:33:55] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 07:34:05] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 07:34:35] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 07:34:42] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 07:34:42] INFO  (Quiz.java:137) - name : 
+[Jul 04 07:35:04] INFO  (Quiz.java:139) - password : 
+[Jul 04 07:35:07] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 07:35:07] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 07:35:07] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 07:35:07] INFO  (Quiz.java:174) - Menu
+[Jul 04 07:35:07] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 07:35:07] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 07:35:07] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 07:35:07] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 07:35:07] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 07:35:15] INFO  (Quiz.java:192) - 2
+[Jul 04 07:35:15] INFO  (Question.java:68) - Enter the topic
+[Jul 04 07:35:20] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 07:35:25] INFO  (Question.java:74) - Enter a Question
+[Jul 04 07:35:45] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 07:35:50] INFO  (Question.java:92) - Enter  choice
+[Jul 04 07:35:52] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 07:35:58] INFO  (Question.java:92) - Enter  choice
+[Jul 04 07:36:00] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 07:36:07] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 07:36:07] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 07:42:56] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 07:43:22] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 07:43:45] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 07:43:45] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 07:43:45] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=ads, 3=cooking, 4=java, 5=python, 6=sports}
+[Jul 04 07:43:45] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 07:43:45] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 07:43:45] INFO  (Quiz.java:63) - 2.  ads
+[Jul 04 07:43:45] INFO  (Quiz.java:63) - 3.  cooking
+[Jul 04 07:43:45] INFO  (Quiz.java:63) - 4.  java
+[Jul 04 07:43:45] INFO  (Quiz.java:63) - 5.  python
+[Jul 04 07:43:45] INFO  (Quiz.java:63) - 6.  sports
+[Jul 04 07:43:45] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 07:44:11] INFO  (Quiz.java:81) - Enter difficulty level (1. Easy 2. Medium 3. Hard) : 
+[Jul 04 07:44:22] INFO  (Quiz.java:100) - aze
+[Jul 04 07:44:22] INFO  (Quiz.java:103) - 1. c1
+[Jul 04 07:44:22] INFO  (Quiz.java:103) - 2. c2
+[Jul 04 07:44:22] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:28] INFO  (Quiz.java:100) - qsdqzuiezd
+[Jul 04 07:44:28] INFO  (Quiz.java:103) - 1. c1
+[Jul 04 07:44:28] INFO  (Quiz.java:103) - 2. c2
+[Jul 04 07:44:28] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:31] INFO  (Quiz.java:100) - java question
+[Jul 04 07:44:31] INFO  (Quiz.java:103) - 1. c1
+[Jul 04 07:44:31] INFO  (Quiz.java:103) - 2. C2
+[Jul 04 07:44:31] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:34] INFO  (Quiz.java:100) - vsmkjs
+[Jul 04 07:44:34] INFO  (Quiz.java:103) - 1. msdfgn
+[Jul 04 07:44:34] INFO  (Quiz.java:103) - 2. dslubn
+[Jul 04 07:44:34] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:36] INFO  (Quiz.java:100) - adakjnob msmkvb
+[Jul 04 07:44:36] INFO  (Quiz.java:103) - 1. czliuvb
+[Jul 04 07:44:36] INFO  (Quiz.java:103) - 2. b pdiufvb
+[Jul 04 07:44:36] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:38] INFO  (Quiz.java:100) - mdoibnh
+[Jul 04 07:44:38] INFO  (Quiz.java:103) - 1. vmoifg
+[Jul 04 07:44:38] INFO  (Quiz.java:103) - 2. nvsbofigb
+[Jul 04 07:44:38] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:41] INFO  (Quiz.java:100) - jkdfgnkjdsfm
+[Jul 04 07:44:41] INFO  (Quiz.java:103) - 1. bndmoihbn
+[Jul 04 07:44:41] INFO  (Quiz.java:103) - 2.  bnfmoihn
+[Jul 04 07:44:41] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:42] INFO  (Quiz.java:100) - kjsbvdpvoummdf
+[Jul 04 07:44:42] INFO  (Quiz.java:103) - 1. oifdh
+[Jul 04 07:44:42] INFO  (Quiz.java:103) - 2. nmpdoifhv
+[Jul 04 07:44:42] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:45] INFO  (Quiz.java:100) - mvlkjdsfngmpois
+[Jul 04 07:44:45] INFO  (Quiz.java:103) - 1. bnrmo
+[Jul 04 07:44:45] INFO  (Quiz.java:103) - 2. nvmsdoifgh
+[Jul 04 07:44:45] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:47] INFO  (Quiz.java:100) - lskjdgnpmsoidg
+[Jul 04 07:44:47] INFO  (Quiz.java:103) - 1. mlkjfdsgbm
+[Jul 04 07:44:47] INFO  (Quiz.java:103) - 2. ljsqkhfvbl
+[Jul 04 07:44:47] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:49] INFO  (Quiz.java:100) - lqhsbfgqoiuldsfb
+[Jul 04 07:44:49] INFO  (Quiz.java:103) - 1. mnvdsuobn
+[Jul 04 07:44:49] INFO  (Quiz.java:103) - 2. duslbgvlmjd
+[Jul 04 07:44:49] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:51] INFO  (Quiz.java:100) - atrhdckuyfl
+[Jul 04 07:44:51] INFO  (Quiz.java:103) - 1. xcjtdhx
+[Jul 04 07:44:51] INFO  (Quiz.java:103) - 2. cjtdyjthf
+[Jul 04 07:44:51] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:54] INFO  (Quiz.java:100) - java is 
+[Jul 04 07:44:54] INFO  (Quiz.java:103) - 1. jskldbf
+[Jul 04 07:44:54] INFO  (Quiz.java:103) - 2. skjgfvbs
+[Jul 04 07:44:54] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:56] INFO  (Quiz.java:100) - alkcbhjzsvdliub
+[Jul 04 07:44:56] INFO  (Quiz.java:103) - 1. vbldiuv
+[Jul 04 07:44:56] INFO  (Quiz.java:103) - 2. vbldiufv
+[Jul 04 07:44:56] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:44:58] INFO  (Quiz.java:100) - izugfbqis
+[Jul 04 07:44:58] INFO  (Quiz.java:103) - 1. dlkjfgb
+[Jul 04 07:44:58] INFO  (Quiz.java:103) - 2. lksjdfb
+[Jul 04 07:44:58] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 07:45:01] INFO  (Quiz.java:122) - Student ID : 123, Student Name : Ramu Correct answers = 13, Total questions = 15, Topic = java, Difficulty Level = 1
+[Jul 04 07:45:20] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 07:45:25] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 07:45:25] INFO  (Quiz.java:137) - name : 
+[Jul 04 07:45:30] INFO  (Quiz.java:139) - password : 
+[Jul 04 07:45:34] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 07:45:34] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 07:45:34] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 07:45:34] INFO  (Quiz.java:174) - Menu
+[Jul 04 07:45:34] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 07:45:34] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 07:45:34] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 07:45:34] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 07:45:34] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 0	;	What is Java?
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 1	;	what is cricket
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 2	;	sports is what
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 3	;	WHAT IS PYTHON
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 4	;	WHAT IS CRICK
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 5	;	question
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 6	;	ccccccccccccccccccc
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 7	;	IUSHGQOEIDGRB
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 8	;	epzoufbqzpiugfb
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 9	;	aizuobdpsvb
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 10	;	vnvquopudsfgbpigu
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 11	;	aze
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 12	;	qsdqzuiezd
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 13	;	java question
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 14	;	vsmkjs
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 15	;	adakjnob msmkvb
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 16	;	mdoibnh
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 17	;	jkdfgnkjdsfm
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 18	;	kjsbvdpvoummdf
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 19	;	mvlkjdsfngmpois
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 20	;	lskjdgnpmsoidg
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 22	;	adsfsd
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 23	;	atrhdckuyfl
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 24	;	java is 
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 25	;	alkcbhjzsvdliub
+[Jul 04 07:45:42] INFO  (Quiz.java:232) - 26	;	izugfbqis
+[Jul 04 07:45:42] INFO  (Quiz.java:174) - Menu
+[Jul 04 07:45:42] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 07:45:42] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 07:45:42] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 07:45:42] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 07:45:42] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 07:45:57] INFO  (Quiz.java:192) - 2
+[Jul 04 07:45:57] INFO  (Question.java:68) - Enter the topic
+[Jul 04 07:46:03] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 07:46:18] INFO  (Question.java:74) - Enter a Question
+[Jul 04 07:46:24] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 07:46:35] INFO  (Question.java:86) - Invalid input, Please try again...
+[Jul 04 07:46:39] INFO  (Question.java:92) - Enter  choice
+[Jul 04 07:46:47] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 07:46:50] INFO  (Question.java:92) - Enter  choice
+[Jul 04 07:46:53] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 07:46:56] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 07:46:56] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 07:56:40] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 07:56:59] INFO  (Question.java:68) - Enter the topic
+[Jul 04 07:57:26] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 07:57:31] INFO  (Question.java:74) - Enter a Question
+[Jul 04 07:57:35] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 07:57:39] INFO  (Question.java:92) - Enter  choice
+[Jul 04 07:57:41] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 07:57:46] INFO  (Question.java:92) - Enter  choice
+[Jul 04 07:57:48] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 07:57:50] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 07:59:31] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 07:59:34] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 07:59:34] INFO  (Quiz.java:137) - name : 
+[Jul 04 07:59:38] INFO  (Quiz.java:139) - password : 
+[Jul 04 07:59:40] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 07:59:40] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 07:59:40] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 07:59:40] INFO  (Quiz.java:174) - Menu
+[Jul 04 07:59:40] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 07:59:40] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 07:59:40] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 07:59:40] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 07:59:40] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 07:59:44] INFO  (Quiz.java:192) - 2
+[Jul 04 07:59:44] INFO  (Question.java:68) - Enter the topic
+[Jul 04 07:59:47] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 07:59:51] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:00:50] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:01:54] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:01:57] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:01:57] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:02:00] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:02:03] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:02:03] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:02:03] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:02:03] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:02:03] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:02:03] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:02:03] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:02:03] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:02:03] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:02:06] INFO  (Quiz.java:192) - 2
+[Jul 04 08:02:06] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:02:09] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:02:12] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:02:14] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:02:18] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:02:21] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:02:23] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:02:23] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 08:02:23] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:02:23] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:02:23] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:02:23] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:02:23] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:02:23] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:07:14] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:07:19] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:07:19] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:07:21] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:07:23] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:07:23] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:07:23] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:07:23] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:07:23] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:07:23] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:07:23] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:07:23] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:07:23] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:07:28] INFO  (Quiz.java:192) - 2
+[Jul 04 08:07:28] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:07:31] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:07:34] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:07:36] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:07:39] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:07:40] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:07:42] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:08:00] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 08:16:49] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:16:53] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:16:53] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:16:58] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:17:01] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:17:01] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:17:01] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:17:01] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:17:01] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:17:01] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:17:01] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:17:01] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:17:01] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:17:14] INFO  (Quiz.java:192) - 2
+[Jul 04 08:17:14] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:17:19] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:17:24] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:17:30] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:17:41] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:17:45] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:17:52] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:17:55] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:18:00] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:18:00] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 08:22:54] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:23:01] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:23:01] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:23:04] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:23:07] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:23:07] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:23:07] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:23:07] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:23:07] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:23:07] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:23:07] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:23:07] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:23:07] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:23:09] INFO  (Quiz.java:192) - 2
+[Jul 04 08:23:09] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:23:13] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:23:15] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:23:20] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:23:23] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:23:26] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:23:29] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:23:30] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:23:32] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:23:32] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 08:24:55] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:25:05] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:25:05] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:25:11] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:25:13] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:25:13] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:25:13] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:25:13] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:25:13] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:25:13] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:25:13] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:25:13] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:25:13] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:25:15] INFO  (Quiz.java:192) - 2
+[Jul 04 08:25:15] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:25:18] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:25:21] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:25:24] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:25:27] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:25:29] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:25:35] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:25:35] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 08:35:07] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:35:10] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:35:10] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:35:13] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:35:15] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:35:15] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:35:15] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:35:15] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:35:15] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:35:15] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:35:15] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:35:15] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:35:15] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 0	;	What is Java?
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 1	;	what is cricket
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 2	;	sports is what
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 3	;	WHAT IS PYTHON
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 4	;	WHAT IS CRICK
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 5	;	question
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 6	;	ccccccccccccccccccc
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 7	;	IUSHGQOEIDGRB
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 8	;	epzoufbqzpiugfb
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 9	;	aizuobdpsvb
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 10	;	vnvquopudsfgbpigu
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 11	;	aze
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 12	;	qsdqzuiezd
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 13	;	java question
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 14	;	vsmkjs
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 15	;	adakjnob msmkvb
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 16	;	mdoibnh
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 17	;	jkdfgnkjdsfm
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 18	;	kjsbvdpvoummdf
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 19	;	mvlkjdsfngmpois
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 20	;	lskjdgnpmsoidg
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 22	;	adsfsd
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 23	;	atrhdckuyfl
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 24	;	java is 
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 25	;	alkcbhjzsvdliub
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 26	;	izugfbqis
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 27	;	hjtfdutkfku
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 28	;	dhyjtduj
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 29	;	jhtfiykufiyu
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 30	;	ldushg
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 31	;	ldkfhgsdbmll
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 32	;	dfdhfgjghkmjk
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 33	;	jhsbfkvd
+[Jul 04 08:35:21] INFO  (Quiz.java:234) - 34	;	jsdhbfs
+[Jul 04 08:35:31] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 08:35:31] INFO  (Quiz.java:208) - Deleted Successfu;;y
+[Jul 04 08:35:31] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:35:31] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:35:31] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:35:31] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:35:31] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:35:31] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 0	;	What is Java?
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 1	;	what is cricket
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 2	;	sports is what
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 3	;	WHAT IS PYTHON
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 4	;	WHAT IS CRICK
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 5	;	question
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 6	;	ccccccccccccccccccc
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 7	;	IUSHGQOEIDGRB
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 8	;	epzoufbqzpiugfb
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 9	;	aizuobdpsvb
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 10	;	vnvquopudsfgbpigu
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 11	;	aze
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 12	;	qsdqzuiezd
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 13	;	java question
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 14	;	vsmkjs
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 15	;	adakjnob msmkvb
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 16	;	mdoibnh
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 17	;	jkdfgnkjdsfm
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 18	;	kjsbvdpvoummdf
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 19	;	mvlkjdsfngmpois
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 20	;	lskjdgnpmsoidg
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 22	;	adsfsd
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 23	;	atrhdckuyfl
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 24	;	java is 
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 25	;	alkcbhjzsvdliub
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 26	;	izugfbqis
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 27	;	hjtfdutkfku
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 28	;	dhyjtduj
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 29	;	jhtfiykufiyu
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 30	;	ldushg
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 31	;	ldkfhgsdbmll
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 32	;	dfdhfgjghkmjk
+[Jul 04 08:35:38] INFO  (Quiz.java:234) - 33	;	jhsbfkvd
+[Jul 04 08:35:38] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:35:38] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:35:38] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:35:38] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:35:38] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:35:38] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 0	;	What is Java?
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 1	;	what is cricket
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 2	;	sports is what
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 3	;	WHAT IS PYTHON
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 4	;	WHAT IS CRICK
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 5	;	question
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 6	;	ccccccccccccccccccc
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 7	;	IUSHGQOEIDGRB
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 8	;	epzoufbqzpiugfb
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 9	;	aizuobdpsvb
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 10	;	vnvquopudsfgbpigu
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 11	;	aze
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 12	;	qsdqzuiezd
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 13	;	java question
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 14	;	vsmkjs
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 15	;	adakjnob msmkvb
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 16	;	mdoibnh
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 17	;	jkdfgnkjdsfm
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 18	;	kjsbvdpvoummdf
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 19	;	mvlkjdsfngmpois
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 20	;	lskjdgnpmsoidg
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 22	;	adsfsd
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 23	;	atrhdckuyfl
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 24	;	java is 
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 25	;	alkcbhjzsvdliub
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 26	;	izugfbqis
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 27	;	hjtfdutkfku
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 28	;	dhyjtduj
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 29	;	jhtfiykufiyu
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 30	;	ldushg
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 31	;	ldkfhgsdbmll
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 32	;	dfdhfgjghkmjk
+[Jul 04 08:35:57] INFO  (Quiz.java:234) - 33	;	jhsbfkvd
+[Jul 04 08:35:57] INFO  (Quiz.java:213) - Enter question number which you want to edit
+[Jul 04 08:36:03] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:36:10] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:36:13] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:36:23] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:36:26] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:36:29] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:36:30] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:36:36] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:36:37] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 08:36:37] INFO  (Quiz.java:221) - Updated Successfully
+[Jul 04 08:36:37] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:36:37] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:36:37] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:36:37] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:36:37] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:36:37] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:40:30] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:40:38] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:40:38] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:40:43] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:40:46] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:40:46] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:40:46] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:40:46] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:40:46] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:40:46] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:40:46] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:40:46] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:40:46] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:40:49] INFO  (Quiz.java:192) - 2
+[Jul 04 08:40:49] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:40:55] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:40:59] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:41:05] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:41:09] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:41:10] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:41:11] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:41:14] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:41:16] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:41:16] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 08:49:33] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:49:36] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:49:36] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:49:39] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:49:42] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:49:42] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:49:42] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:49:42] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:49:42] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:49:42] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:49:42] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:49:42] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:49:42] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:49:45] INFO  (Quiz.java:192) - 2
+[Jul 04 08:49:45] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:49:58] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:50:02] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:50:04] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:50:06] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:50:09] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:50:11] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:50:16] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:50:31] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:50:31] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 08:58:21] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 08:58:30] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 08:58:30] INFO  (Quiz.java:137) - name : 
+[Jul 04 08:58:33] INFO  (Quiz.java:139) - password : 
+[Jul 04 08:58:36] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 08:58:36] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 08:58:36] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 08:58:36] INFO  (Quiz.java:174) - Menu
+[Jul 04 08:58:36] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 08:58:36] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 08:58:36] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 08:58:36] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 08:58:36] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 08:58:39] INFO  (Quiz.java:192) - 2
+[Jul 04 08:58:39] INFO  (Question.java:68) - Enter the topic
+[Jul 04 08:58:43] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 08:58:46] INFO  (Question.java:74) - Enter a Question
+[Jul 04 08:58:48] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 08:58:50] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:58:51] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:58:53] INFO  (Question.java:92) - Enter  choice
+[Jul 04 08:58:54] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 08:58:56] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 08:58:56] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 09:00:27] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 09:00:37] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 09:00:37] INFO  (Quiz.java:137) - name : 
+[Jul 04 09:00:40] INFO  (Quiz.java:139) - password : 
+[Jul 04 09:00:42] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 09:00:42] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 09:00:42] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 09:00:42] INFO  (Quiz.java:174) - Menu
+[Jul 04 09:00:42] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 09:00:42] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 09:00:42] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 09:00:42] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 09:00:42] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 09:00:45] INFO  (Quiz.java:192) - 2
+[Jul 04 09:00:45] INFO  (Question.java:68) - Enter the topic
+[Jul 04 09:00:48] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 09:00:51] INFO  (Question.java:74) - Enter a Question
+[Jul 04 09:00:53] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 09:00:57] INFO  (Question.java:92) - Enter  choice
+[Jul 04 09:00:58] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 09:01:02] INFO  (Question.java:92) - Enter  choice
+[Jul 04 09:01:03] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 09:01:08] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 09:01:08] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 09:09:02] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 09:09:07] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 09:09:07] INFO  (Quiz.java:137) - name : 
+[Jul 04 09:09:10] INFO  (Quiz.java:139) - password : 
+[Jul 04 09:09:14] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 09:09:14] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 09:09:14] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 09:09:14] INFO  (Quiz.java:174) - Menu
+[Jul 04 09:09:14] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 09:09:14] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 09:09:14] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 09:09:14] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 09:09:14] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 09:09:33] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 09:09:35] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 09:09:35] INFO  (Quiz.java:137) - name : 
+[Jul 04 09:09:39] INFO  (Quiz.java:139) - password : 
+[Jul 04 09:09:43] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 09:09:43] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 09:09:43] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 09:09:43] INFO  (Quiz.java:174) - Menu
+[Jul 04 09:09:43] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 09:09:43] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 09:09:43] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 09:09:43] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 09:09:43] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 09:09:46] INFO  (Quiz.java:192) - 2
+[Jul 04 09:09:46] INFO  (Question.java:68) - Enter the topic
+[Jul 04 09:09:50] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 09:09:53] INFO  (Question.java:74) - Enter a Question
+[Jul 04 09:09:56] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 09:09:58] INFO  (Question.java:92) - Enter  choice
+[Jul 04 09:10:02] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 09:10:07] INFO  (QuestionDAO.java:51) - Question added successfully...
+[Jul 04 09:10:07] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 09:10:14] INFO  (Question.java:68) - Enter the topic
+[Jul 04 09:10:52] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 09:10:55] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 09:10:55] INFO  (Quiz.java:137) - name : 
+[Jul 04 09:11:03] INFO  (Quiz.java:139) - password : 
+[Jul 04 09:11:12] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 09:11:12] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 09:11:12] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 09:11:12] INFO  (Quiz.java:174) - Menu
+[Jul 04 09:11:12] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 09:11:12] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 09:11:12] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 09:11:12] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 09:11:12] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 0	;	What is Java?
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 1	;	what is cricket
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 2	;	sports is what
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 3	;	WHAT IS PYTHON
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 4	;	WHAT IS CRICK
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 5	;	question
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 6	;	ccccccccccccccccccc
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 7	;	IUSHGQOEIDGRB
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 8	;	epzoufbqzpiugfb
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 9	;	aizuobdpsvb
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 10	;	vnvquopudsfgbpigu
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 11	;	aze
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 12	;	qsdqzuiezd
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 13	;	java question
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 14	;	vsmkjs
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 15	;	adakjnob msmkvb
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 16	;	mdoibnh
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 17	;	jkdfgnkjdsfm
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 18	;	kjsbvdpvoummdf
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 19	;	mvlkjdsfngmpois
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 20	;	lskjdgnpmsoidg
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 22	;	adsfsd
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 23	;	atrhdckuyfl
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 24	;	java is 
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 25	;	alkcbhjzsvdliub
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 26	;	izugfbqis
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 27	;	hjtfdutkfku
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 28	;	dhyjtduj
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 29	;	jhtfiykufiyu
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 30	;	ldushg
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 31	;	ldkfhgsdbmll
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 32	;	dfdhfgjghkmjk
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 33	;	java updated
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 34	;	vlkdsjbfvpqsd
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 35	;	yuksldgc
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 36	;	cjtyf
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 37	;	bnfdlkjgb
+[Jul 04 09:11:18] INFO  (Quiz.java:236) - 38	;	lfjckgvbdfx
+[Jul 04 09:11:18] INFO  (Quiz.java:215) - Enter question number which you want to edit
+[Jul 04 09:11:25] INFO  (Question.java:68) - Enter the topic
+[Jul 04 09:11:38] INFO  (Question.java:71) - Enter dificulty Level (1,2,3) : 
+[Jul 04 09:11:42] INFO  (Question.java:74) - Enter a Question
+[Jul 04 09:11:49] INFO  (Question.java:77) - How many choices do u want to add 
+[Jul 04 09:11:52] INFO  (Question.java:92) - Enter  choice
+[Jul 04 09:11:54] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 09:11:55] INFO  (Question.java:92) - Enter  choice
+[Jul 04 09:11:59] INFO  (Question.java:95) - is valid choice Y/N
+[Jul 04 09:12:01] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 09:12:01] INFO  (Quiz.java:223) - Updated Successfully
+[Jul 04 09:12:01] INFO  (Quiz.java:174) - Menu
+[Jul 04 09:12:01] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 09:12:01] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 09:12:01] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 09:12:01] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 09:12:01] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 0	;	What is Java?
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 1	;	what is cricket
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 2	;	sports is what
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 3	;	WHAT IS PYTHON
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 4	;	WHAT IS CRICK
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 5	;	question
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 6	;	ccccccccccccccccccc
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 7	;	IUSHGQOEIDGRB
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 8	;	epzoufbqzpiugfb
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 9	;	aizuobdpsvb
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 10	;	vnvquopudsfgbpigu
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 11	;	aze
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 12	;	qsdqzuiezd
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 13	;	java question
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 14	;	vsmkjs
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 15	;	adakjnob msmkvb
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 16	;	mdoibnh
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 17	;	jkdfgnkjdsfm
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 18	;	kjsbvdpvoummdf
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 19	;	mvlkjdsfngmpois
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 20	;	lskjdgnpmsoidg
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 22	;	adsfsd
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 23	;	atrhdckuyfl
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 24	;	java is 
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 25	;	alkcbhjzsvdliub
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 26	;	izugfbqis
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 27	;	hjtfdutkfku
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 28	;	dhyjtduj
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 29	;	jhtfiykufiyu
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 30	;	ldushg
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 31	;	ldkfhgsdbmll
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 32	;	dfdhfgjghkmjk
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 33	;	java updated
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 34	;	vlkdsjbfvpqsd
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 35	;	yuksldgc
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 36	;	cjtyf
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 37	;	bnfdlkjgb
+[Jul 04 09:12:14] INFO  (Quiz.java:236) - 38	;	what is playing 
+[Jul 04 09:12:14] INFO  (Quiz.java:174) - Menu
+[Jul 04 09:12:14] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 09:12:14] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 09:12:14] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 09:12:14] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 09:12:14] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 09:12:27] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 09:12:30] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 09:12:33] INFO  (Student.java:50) - Invalid input, Please try again...
+[Jul 04 09:12:38] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 09:12:38] INFO  (Student.java:61) - Could not find student with studentId=1
+[Jul 04 09:12:38] INFO  (Student.java:62) - Enter name..
+[Jul 04 09:12:41] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 09:12:41] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=ads, 3=cooking, 4=ghfkkuyg, 5=java, 6=python, 7=sportqqq, 8=sports}
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 2.  ads
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 3.  cooking
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 4.  ghfkkuyg
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 5.  java
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 6.  python
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 7.  sportqqq
+[Jul 04 09:12:41] INFO  (Quiz.java:63) - 8.  sports
+[Jul 04 09:12:41] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 09:12:43] INFO  (Quiz.java:77) - Invalid input, Please try again...
+[Jul 04 10:28:58] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 10:29:03] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 10:29:03] INFO  (Quiz.java:137) - name : 
+[Jul 04 10:29:06] INFO  (Quiz.java:139) - password : 
+[Jul 04 10:29:09] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 10:29:09] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 10:29:09] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 10:29:09] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:29:09] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:29:09] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:29:09] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:29:09] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:29:09] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:29:15] ERROR (QuestionDAO.java:169) - org.h2.jdbc.JdbcSQLSyntaxErrorException: Column "all" not found [42122-199]
+[Jul 04 10:29:15] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:29:15] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:29:15] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:29:15] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:29:15] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:29:15] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:39:32] ERROR (QuestionDAO.java:169) - org.h2.jdbc.JdbcSQLSyntaxErrorException: Column "all" not found [42122-199]
+[Jul 04 10:39:32] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:39:32] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:39:32] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:39:32] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:39:32] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:39:32] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:47:00] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 10:47:03] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 10:47:03] INFO  (Quiz.java:137) - name : 
+[Jul 04 10:47:06] INFO  (Quiz.java:139) - password : 
+[Jul 04 10:47:08] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 10:47:08] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 10:47:08] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 10:47:08] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:47:08] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:47:08] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:47:08] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:47:08] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:47:08] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:51:59] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 10:52:08] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 10:52:08] INFO  (Quiz.java:137) - name : 
+[Jul 04 10:52:10] INFO  (Quiz.java:139) - password : 
+[Jul 04 10:52:12] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 10:52:12] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 10:52:12] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 10:52:12] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:52:12] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:52:12] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:52:12] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:52:12] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:52:12] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 0	;	What is Java?
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 1	;	what is cricket
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 2	;	sports is what
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 3	;	WHAT IS PYTHON
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 4	;	WHAT IS CRICK
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 5	;	question
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 6	;	ccccccccccccccccccc
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 7	;	IUSHGQOEIDGRB
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 8	;	epzoufbqzpiugfb
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 9	;	aizuobdpsvb
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 10	;	vnvquopudsfgbpigu
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 11	;	aze
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 12	;	qsdqzuiezd
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 13	;	java question
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 14	;	vsmkjs
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 15	;	adakjnob msmkvb
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 16	;	mdoibnh
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 17	;	jkdfgnkjdsfm
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 18	;	kjsbvdpvoummdf
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 19	;	mvlkjdsfngmpois
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 20	;	lskjdgnpmsoidg
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 22	;	adsfsd
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 23	;	atrhdckuyfl
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 24	;	java is 
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 25	;	alkcbhjzsvdliub
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 26	;	izugfbqis
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 27	;	hjtfdutkfku
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 28	;	dhyjtduj
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 29	;	jhtfiykufiyu
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 30	;	ldushg
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 31	;	ldkfhgsdbmll
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 32	;	dfdhfgjghkmjk
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 33	;	java updated
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 34	;	vlkdsjbfvpqsd
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 35	;	yuksldgc
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 36	;	cjtyf
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 37	;	bnfdlkjgb
+[Jul 04 10:52:19] INFO  (Quiz.java:235) - 38	;	what is playing 
+[Jul 04 10:52:19] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:52:19] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:52:19] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:52:19] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:52:19] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:52:19] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:52:28] INFO  (Quiz.java:192) - 2
+[Jul 04 10:52:28] INFO  (Question.java:67) - Enter the topic
+[Jul 04 10:52:31] INFO  (Question.java:70) - Enter dificulty Level (1,2,3) : 
+[Jul 04 10:52:33] INFO  (Question.java:73) - Enter a Question
+[Jul 04 10:52:35] INFO  (Question.java:76) - How many choices do u want to add 
+[Jul 04 10:52:37] INFO  (Question.java:91) - Enter  choice
+[Jul 04 10:52:39] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 10:52:41] INFO  (Question.java:91) - Enter  choice
+[Jul 04 10:52:43] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 10:52:44] INFO  (QuestionDAO.java:53) - Question added successfully...
+[Jul 04 10:52:44] INFO  (Quiz.java:196) - Do you want to add one more question (Y/N) : 
+[Jul 04 10:52:46] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:52:46] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:52:46] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:52:46] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:52:46] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:52:46] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 0	;	What is Java?
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 1	;	what is cricket
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 2	;	sports is what
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 3	;	WHAT IS PYTHON
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 4	;	WHAT IS CRICK
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 5	;	question
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 6	;	ccccccccccccccccccc
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 7	;	IUSHGQOEIDGRB
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 8	;	epzoufbqzpiugfb
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 9	;	aizuobdpsvb
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 10	;	vnvquopudsfgbpigu
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 11	;	aze
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 12	;	qsdqzuiezd
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 13	;	java question
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 14	;	vsmkjs
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 15	;	adakjnob msmkvb
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 16	;	mdoibnh
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 17	;	jkdfgnkjdsfm
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 18	;	kjsbvdpvoummdf
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 19	;	mvlkjdsfngmpois
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 20	;	lskjdgnpmsoidg
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 22	;	adsfsd
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 23	;	atrhdckuyfl
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 24	;	java is 
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 25	;	alkcbhjzsvdliub
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 26	;	izugfbqis
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 27	;	hjtfdutkfku
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 28	;	dhyjtduj
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 29	;	jhtfiykufiyu
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 30	;	ldushg
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 31	;	ldkfhgsdbmll
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 32	;	dfdhfgjghkmjk
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 33	;	java updated
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 34	;	vlkdsjbfvpqsd
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 35	;	yuksldgc
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 36	;	cjtyf
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 37	;	bnfdlkjgb
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 38	;	what is playing 
+[Jul 04 10:52:51] INFO  (Quiz.java:235) - 39	;	klsdjfblksu
+[Jul 04 10:52:58] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 10:52:58] INFO  (Quiz.java:209) - Deleted Successfu;;y
+[Jul 04 10:52:58] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:52:58] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:52:58] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:52:58] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:52:58] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:52:58] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 0	;	What is Java?
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 1	;	what is cricket
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 2	;	sports is what
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 3	;	WHAT IS PYTHON
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 4	;	WHAT IS CRICK
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 5	;	question
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 6	;	ccccccccccccccccccc
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 7	;	IUSHGQOEIDGRB
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 8	;	epzoufbqzpiugfb
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 9	;	aizuobdpsvb
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 10	;	vnvquopudsfgbpigu
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 11	;	aze
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 12	;	qsdqzuiezd
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 13	;	java question
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 14	;	vsmkjs
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 15	;	adakjnob msmkvb
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 16	;	mdoibnh
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 17	;	jkdfgnkjdsfm
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 18	;	kjsbvdpvoummdf
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 19	;	mvlkjdsfngmpois
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 20	;	lskjdgnpmsoidg
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 22	;	adsfsd
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 23	;	atrhdckuyfl
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 24	;	java is 
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 25	;	alkcbhjzsvdliub
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 26	;	izugfbqis
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 27	;	hjtfdutkfku
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 28	;	dhyjtduj
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 29	;	jhtfiykufiyu
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 30	;	ldushg
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 31	;	ldkfhgsdbmll
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 32	;	dfdhfgjghkmjk
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 33	;	java updated
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 34	;	vlkdsjbfvpqsd
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 35	;	yuksldgc
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 36	;	cjtyf
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 37	;	bnfdlkjgb
+[Jul 04 10:53:02] INFO  (Quiz.java:235) - 38	;	what is playing 
+[Jul 04 10:53:02] INFO  (Quiz.java:214) - Enter question number which you want to edit
+[Jul 04 10:53:10] INFO  (Question.java:67) - Enter the topic
+[Jul 04 10:53:17] INFO  (Question.java:70) - Enter dificulty Level (1,2,3) : 
+[Jul 04 10:53:20] INFO  (Question.java:73) - Enter a Question
+[Jul 04 10:53:27] INFO  (Question.java:76) - How many choices do u want to add 
+[Jul 04 10:53:30] INFO  (Question.java:91) - Enter  choice
+[Jul 04 10:53:32] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 10:53:34] INFO  (Question.java:91) - Enter  choice
+[Jul 04 10:53:35] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 10:53:36] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 10:53:36] INFO  (Quiz.java:222) - Updated Successfully
+[Jul 04 10:53:36] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:53:36] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:53:36] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:53:36] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:53:36] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:53:36] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 0	;	What is Java?
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 1	;	what is cricket
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 2	;	sports is what
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 3	;	WHAT IS PYTHON
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 4	;	WHAT IS CRICK
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 5	;	question
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 6	;	ccccccccccccccccccc
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 7	;	IUSHGQOEIDGRB
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 8	;	epzoufbqzpiugfb
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 9	;	aizuobdpsvb
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 10	;	vnvquopudsfgbpigu
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 11	;	aze
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 12	;	qsdqzuiezd
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 13	;	java question
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 14	;	vsmkjs
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 15	;	adakjnob msmkvb
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 16	;	mdoibnh
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 17	;	jkdfgnkjdsfm
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 18	;	kjsbvdpvoummdf
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 19	;	mvlkjdsfngmpois
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 20	;	lskjdgnpmsoidg
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 22	;	adsfsd
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 23	;	atrhdckuyfl
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 24	;	java is 
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 25	;	alkcbhjzsvdliub
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 26	;	izugfbqis
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 27	;	hjtfdutkfku
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 28	;	dhyjtduj
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 29	;	jhtfiykufiyu
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 30	;	ldushg
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 31	;	ldkfhgsdbmll
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 32	;	dfdhfgjghkmjk
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 33	;	java updated
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 34	;	vlkdsjbfvpqsd
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 35	;	yuksldgc
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 36	;	cjtyf
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 37	;	edieted question
+[Jul 04 10:53:40] INFO  (Quiz.java:235) - 38	;	what is playing 
+[Jul 04 10:53:40] INFO  (Quiz.java:174) - Menu
+[Jul 04 10:53:40] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 10:53:40] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 10:53:40] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 10:53:40] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 10:53:40] INFO  (Quiz.java:181) - Enter an Option
+[Jul 04 11:16:22] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 11:16:28] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 11:16:28] INFO  (Quiz.java:137) - name : 
+[Jul 04 11:16:31] INFO  (Quiz.java:139) - password : 
+[Jul 04 11:16:33] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 11:16:33] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 11:16:33] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 11:16:33] INFO  (Quiz.java:174) - Menu
+[Jul 04 11:16:33] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 11:16:33] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 11:16:33] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 11:16:33] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 11:16:33] INFO  (Quiz.java:180) - 5. Exit
+[Jul 04 11:16:33] INFO  (Quiz.java:182) - Enter an Option
+[Jul 04 11:17:00] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 11:17:02] INFO  (Quiz.java:131) - Enter name and password
+[Jul 04 11:17:02] INFO  (Quiz.java:137) - name : 
+[Jul 04 11:17:05] INFO  (Quiz.java:139) - password : 
+[Jul 04 11:17:06] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 11:17:06] INFO  (Quiz.java:147) - *****************Welcome*************************
+[Jul 04 11:17:06] INFO  (Quiz.java:148) - ****************************************************
+[Jul 04 11:17:06] INFO  (Quiz.java:174) - Menu
+[Jul 04 11:17:06] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 11:17:06] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 11:17:06] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 11:17:06] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 11:17:06] INFO  (Quiz.java:180) - 5. Exit
+[Jul 04 11:17:06] INFO  (Quiz.java:182) - Enter an Option
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 0	;	What is Java?
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 1	;	what is cricket
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 2	;	sports is what
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 3	;	WHAT IS PYTHON
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 4	;	WHAT IS CRICK
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 5	;	question
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 6	;	ccccccccccccccccccc
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 7	;	IUSHGQOEIDGRB
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 8	;	epzoufbqzpiugfb
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 9	;	aizuobdpsvb
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 10	;	vnvquopudsfgbpigu
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 11	;	aze
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 12	;	qsdqzuiezd
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 13	;	java question
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 14	;	vsmkjs
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 15	;	adakjnob msmkvb
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 16	;	mdoibnh
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 17	;	jkdfgnkjdsfm
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 18	;	kjsbvdpvoummdf
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 19	;	mvlkjdsfngmpois
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 20	;	lskjdgnpmsoidg
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 22	;	adsfsd
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 23	;	atrhdckuyfl
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 24	;	java is 
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 25	;	alkcbhjzsvdliub
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 26	;	izugfbqis
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 27	;	hjtfdutkfku
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 28	;	dhyjtduj
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 29	;	jhtfiykufiyu
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 30	;	ldushg
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 31	;	ldkfhgsdbmll
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 32	;	dfdhfgjghkmjk
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 33	;	java updated
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 34	;	vlkdsjbfvpqsd
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 35	;	yuksldgc
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 36	;	cjtyf
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 37	;	edieted question
+[Jul 04 11:17:09] INFO  (Quiz.java:239) - 38	;	what is playing 
+[Jul 04 11:17:09] INFO  (Quiz.java:174) - Menu
+[Jul 04 11:17:09] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 11:17:09] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 11:17:09] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 11:17:09] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 11:17:09] INFO  (Quiz.java:180) - 5. Exit
+[Jul 04 11:17:09] INFO  (Quiz.java:182) - Enter an Option
+[Jul 04 11:17:23] INFO  (Quiz.java:193) - 2
+[Jul 04 11:17:23] INFO  (Question.java:67) - Enter the topic
+[Jul 04 11:17:31] INFO  (Question.java:70) - Enter dificulty Level (1,2,3) : 
+[Jul 04 11:17:33] INFO  (Question.java:73) - Enter a Question
+[Jul 04 11:17:48] INFO  (Question.java:76) - How many choices do u want to add 
+[Jul 04 11:17:56] INFO  (Question.java:91) - Enter  choice
+[Jul 04 11:17:59] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 11:18:01] INFO  (Question.java:91) - Enter  choice
+[Jul 04 11:18:06] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 11:18:09] INFO  (QuestionDAO.java:53) - Question added successfully...
+[Jul 04 11:18:09] INFO  (Quiz.java:197) - Do you want to add one more question (Y/N) : 
+[Jul 04 11:18:12] INFO  (Quiz.java:174) - Menu
+[Jul 04 11:18:12] INFO  (Quiz.java:176) - 1. View All Question
+[Jul 04 11:18:12] INFO  (Quiz.java:177) - 2. Add Question
+[Jul 04 11:18:12] INFO  (Quiz.java:178) - 3. Delete Question
+[Jul 04 11:18:12] INFO  (Quiz.java:179) - 4. Update
+[Jul 04 11:18:12] INFO  (Quiz.java:180) - 5. Exit
+[Jul 04 11:18:12] INFO  (Quiz.java:182) - Enter an Option
+[Jul 04 11:18:53] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 11:18:55] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 11:18:58] INFO  (Student.java:50) - Invalid input, Please try again...
+[Jul 04 11:19:02] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 11:19:02] INFO  (Student.java:61) - Could not find student with studentId=5
+[Jul 04 11:19:02] INFO  (Student.java:62) - Enter name..
+[Jul 04 11:19:07] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 11:19:07] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=ads, 3=cooking, 4=gamer, 5=ghfkkuyg, 6=java, 7=python, 8=sportqqq, 9=sports}
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 2.  ads
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 3.  cooking
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 4.  gamer
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 5.  ghfkkuyg
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 6.  java
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 7.  python
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 8.  sportqqq
+[Jul 04 11:19:07] INFO  (Quiz.java:63) - 9.  sports
+[Jul 04 11:19:07] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 11:19:13] INFO  (Quiz.java:81) - Enter difficulty level (1. Easy 2. Medium 3. Hard) : 
+[Jul 04 11:19:16] INFO  (Quiz.java:100) - what is gammer?
+[Jul 04 11:19:16] INFO  (Quiz.java:103) - 1. c1
+[Jul 04 11:19:16] INFO  (Quiz.java:103) - 2. C2
+[Jul 04 11:19:16] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 11:19:19] INFO  (Quiz.java:122) - Student ID : 5, Student Name : Leela Correct answers = 1, Total questions = 1, Topic = gamer, Difficulty Level = 3
+[Jul 04 12:23:08] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 12:23:20] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 12:23:20] INFO  (Quiz.java:136) - name : 
+[Jul 04 12:23:23] INFO  (Quiz.java:138) - password : 
+[Jul 04 12:23:26] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 12:23:26] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 12:23:26] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 12:23:26] INFO  (Quiz.java:172) - Menu
+[Jul 04 12:23:26] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 12:23:26] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 12:23:26] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 12:23:26] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 12:23:26] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 12:23:26] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 23	;	atrhdckuyfl
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 24	;	java is 
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 25	;	alkcbhjzsvdliub
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 26	;	izugfbqis
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 27	;	hjtfdutkfku
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 28	;	dhyjtduj
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 29	;	jhtfiykufiyu
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 30	;	ldushg
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 31	;	ldkfhgsdbmll
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 32	;	dfdhfgjghkmjk
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 33	;	java updated
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 34	;	vlkdsjbfvpqsd
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 35	;	yuksldgc
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 36	;	cjtyf
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 37	;	edieted question
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 38	;	what is playing 
+[Jul 04 12:23:30] INFO  (Quiz.java:237) - 39	;	what is gammer?
+[Jul 04 12:23:30] INFO  (Quiz.java:172) - Menu
+[Jul 04 12:23:30] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 12:23:30] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 12:23:30] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 12:23:30] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 12:23:30] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 12:23:30] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 12:23:32] INFO  (Quiz.java:191) - 2
+[Jul 04 12:23:32] INFO  (Question.java:67) - Enter the topic
+[Jul 04 12:23:39] INFO  (Question.java:70) - Enter dificulty Level (1,2,3) : 
+[Jul 04 12:23:43] INFO  (Question.java:73) - Enter a Question
+[Jul 04 12:23:47] INFO  (Question.java:76) - How many choices do u want to add 
+[Jul 04 12:23:51] INFO  (Question.java:91) - Enter  choice
+[Jul 04 12:23:54] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 12:23:58] INFO  (Question.java:91) - Enter  choice
+[Jul 04 12:24:01] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 12:24:03] INFO  (QuestionDAO.java:53) - Question added successfully...
+[Jul 04 12:24:03] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 12:24:06] INFO  (Quiz.java:172) - Menu
+[Jul 04 12:24:06] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 12:24:06] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 12:24:06] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 12:24:06] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 12:24:06] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 12:24:06] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 23	;	atrhdckuyfl
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 24	;	java is 
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 25	;	alkcbhjzsvdliub
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 26	;	izugfbqis
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 27	;	hjtfdutkfku
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 28	;	dhyjtduj
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 29	;	jhtfiykufiyu
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 30	;	ldushg
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 31	;	ldkfhgsdbmll
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 32	;	dfdhfgjghkmjk
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 33	;	java updated
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 34	;	vlkdsjbfvpqsd
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 35	;	yuksldgc
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 36	;	cjtyf
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 37	;	edieted question
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 38	;	what is playing 
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 39	;	what is gammer?
+[Jul 04 12:24:11] INFO  (Quiz.java:237) - 40	;	sleeping 
+[Jul 04 12:24:16] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 12:24:16] INFO  (Quiz.java:208) - Deleted Successfu;;y
+[Jul 04 12:24:16] INFO  (Quiz.java:172) - Menu
+[Jul 04 12:24:16] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 12:24:16] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 12:24:16] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 12:24:16] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 12:24:16] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 12:24:16] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 23	;	java is 
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 24	;	alkcbhjzsvdliub
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 25	;	izugfbqis
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 26	;	hjtfdutkfku
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 27	;	dhyjtduj
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 28	;	jhtfiykufiyu
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 29	;	ldushg
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 30	;	ldkfhgsdbmll
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 31	;	dfdhfgjghkmjk
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 32	;	java updated
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 33	;	vlkdsjbfvpqsd
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 34	;	yuksldgc
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 35	;	cjtyf
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 36	;	edieted question
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 37	;	what is playing 
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 38	;	what is gammer?
+[Jul 04 12:24:27] INFO  (Quiz.java:237) - 39	;	sleeping 
+[Jul 04 12:24:27] INFO  (Quiz.java:213) - Enter question number which you want to edit
+[Jul 04 12:24:35] INFO  (Question.java:67) - Enter the topic
+[Jul 04 12:25:03] INFO  (Question.java:70) - Enter dificulty Level (1,2,3) : 
+[Jul 04 12:25:05] INFO  (Question.java:73) - Enter a Question
+[Jul 04 12:25:12] INFO  (Question.java:76) - How many choices do u want to add 
+[Jul 04 12:26:17] INFO  (Question.java:91) - Enter  choice
+[Jul 04 12:26:20] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 12:26:24] INFO  (Question.java:91) - Enter  choice
+[Jul 04 16:09:07] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 16:10:09] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 16:10:09] INFO  (Quiz.java:136) - name : 
+[Jul 04 16:10:12] INFO  (Quiz.java:138) - password : 
+[Jul 04 16:10:15] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 16:10:15] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 16:10:15] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 16:10:15] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:10:15] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:10:15] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:10:15] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:10:15] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:10:15] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:10:15] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 23	;	java is 
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 24	;	alkcbhjzsvdliub
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 25	;	izugfbqis
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 26	;	hjtfdutkfku
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 27	;	dhyjtduj
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 28	;	jhtfiykufiyu
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 29	;	ldushg
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 30	;	ldkfhgsdbmll
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 31	;	dfdhfgjghkmjk
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 32	;	java updated
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 33	;	vlkdsjbfvpqsd
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 34	;	yuksldgc
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 35	;	cjtyf
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 36	;	edieted question
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 37	;	what is playing 
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 38	;	what is gammer?
+[Jul 04 16:12:38] INFO  (Quiz.java:237) - 39	;	sleeping 
+[Jul 04 16:12:38] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:12:38] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:12:38] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:12:38] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:12:38] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:12:38] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:12:38] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:12:46] INFO  (Quiz.java:191) - 2
+[Jul 04 16:12:46] INFO  (Question.java:67) - Enter the topic
+[Jul 04 16:13:00] INFO  (Question.java:70) - Enter dificulty Level (1,2,3) : 
+[Jul 04 16:13:03] INFO  (Question.java:73) - Enter a Question
+[Jul 04 16:13:07] INFO  (Question.java:76) - How many choices do u want to add 
+[Jul 04 16:13:10] INFO  (Question.java:91) - Enter  choice
+[Jul 04 16:13:12] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 16:13:13] INFO  (Question.java:91) - Enter  choice
+[Jul 04 16:13:14] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 16:13:16] INFO  (QuestionDAO.java:53) - Question added successfully...
+[Jul 04 16:13:16] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 16:13:20] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:13:20] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:13:20] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:13:20] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:13:20] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:13:20] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:13:20] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 23	;	java is 
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 24	;	alkcbhjzsvdliub
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 25	;	izugfbqis
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 26	;	hjtfdutkfku
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 27	;	dhyjtduj
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 28	;	jhtfiykufiyu
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 29	;	ldushg
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 30	;	ldkfhgsdbmll
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 31	;	dfdhfgjghkmjk
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 32	;	java updated
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 33	;	vlkdsjbfvpqsd
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 34	;	yuksldgc
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 35	;	cjtyf
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 36	;	edieted question
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 37	;	what is playing 
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 38	;	what is gammer?
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 39	;	sleeping 
+[Jul 04 16:13:32] INFO  (Quiz.java:237) - 40	;	usdtriuyfkgf
+[Jul 04 16:14:00] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 16:14:00] INFO  (Quiz.java:208) - Deleted Successfu;;y
+[Jul 04 16:14:00] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:14:00] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:14:00] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:14:00] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:14:00] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:14:00] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:14:00] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 23	;	java is 
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 24	;	alkcbhjzsvdliub
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 25	;	izugfbqis
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 26	;	hjtfdutkfku
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 27	;	dhyjtduj
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 28	;	jhtfiykufiyu
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 29	;	ldushg
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 30	;	ldkfhgsdbmll
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 31	;	dfdhfgjghkmjk
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 32	;	java updated
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 33	;	vlkdsjbfvpqsd
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 34	;	yuksldgc
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 35	;	cjtyf
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 36	;	edieted question
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 37	;	what is playing 
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 38	;	what is gammer?
+[Jul 04 16:14:12] INFO  (Quiz.java:237) - 39	;	sleeping 
+[Jul 04 16:14:12] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:14:12] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:14:12] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:14:12] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:14:12] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:14:12] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:14:12] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 23	;	java is 
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 24	;	alkcbhjzsvdliub
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 25	;	izugfbqis
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 26	;	hjtfdutkfku
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 27	;	dhyjtduj
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 28	;	jhtfiykufiyu
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 29	;	ldushg
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 30	;	ldkfhgsdbmll
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 31	;	dfdhfgjghkmjk
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 32	;	java updated
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 33	;	vlkdsjbfvpqsd
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 34	;	yuksldgc
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 35	;	cjtyf
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 36	;	edieted question
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 37	;	what is playing 
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 38	;	what is gammer?
+[Jul 04 16:14:51] INFO  (Quiz.java:237) - 39	;	sleeping 
+[Jul 04 16:14:51] INFO  (Quiz.java:213) - Enter question number which you want to edit
+[Jul 04 16:15:01] INFO  (Question.java:67) - Enter the topic
+[Jul 04 16:24:43] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 16:25:08] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 16:25:08] INFO  (Quiz.java:136) - name : 
+[Jul 04 16:25:11] INFO  (Quiz.java:138) - password : 
+[Jul 04 16:25:13] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 16:25:13] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 16:25:13] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 16:25:13] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:25:13] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:25:13] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:25:13] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:25:13] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:25:13] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:25:13] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 23	;	java is 
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 24	;	alkcbhjzsvdliub
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 25	;	izugfbqis
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 26	;	hjtfdutkfku
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 27	;	dhyjtduj
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 28	;	jhtfiykufiyu
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 29	;	ldushg
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 30	;	ldkfhgsdbmll
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 31	;	dfdhfgjghkmjk
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 32	;	java updated
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 33	;	vlkdsjbfvpqsd
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 34	;	yuksldgc
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 35	;	cjtyf
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 36	;	edieted question
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 37	;	what is playing 
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 38	;	what is gammer?
+[Jul 04 16:25:17] INFO  (Quiz.java:237) - 39	;	sleeping 
+[Jul 04 16:25:17] INFO  (Quiz.java:204) - Enter question number to delete:
+[Jul 04 16:25:27] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 16:25:27] INFO  (Quiz.java:208) - Deleted Successfully
+[Jul 04 16:25:27] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:25:27] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:25:27] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:25:27] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:25:27] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:25:27] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:25:27] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 0	;	What is Java?
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 1	;	what is cricket
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 2	;	sports is what
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 3	;	WHAT IS PYTHON
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 4	;	WHAT IS CRICK
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 5	;	question
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 6	;	ccccccccccccccccccc
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 7	;	IUSHGQOEIDGRB
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 8	;	epzoufbqzpiugfb
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 9	;	aizuobdpsvb
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 10	;	vnvquopudsfgbpigu
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 11	;	aze
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 12	;	qsdqzuiezd
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 13	;	java question
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 14	;	vsmkjs
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 15	;	adakjnob msmkvb
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 16	;	mdoibnh
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 17	;	jkdfgnkjdsfm
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 18	;	kjsbvdpvoummdf
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 19	;	mvlkjdsfngmpois
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 20	;	lskjdgnpmsoidg
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 21	;	lqhsbfgqoiuldsfb
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 22	;	adsfsd
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 23	;	java is 
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 24	;	alkcbhjzsvdliub
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 25	;	izugfbqis
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 26	;	hjtfdutkfku
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 27	;	dhyjtduj
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 28	;	jhtfiykufiyu
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 29	;	ldushg
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 30	;	ldkfhgsdbmll
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 31	;	dfdhfgjghkmjk
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 32	;	java updated
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 33	;	vlkdsjbfvpqsd
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 34	;	yuksldgc
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 35	;	edieted question
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 36	;	what is playing 
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 37	;	what is gammer?
+[Jul 04 16:25:32] INFO  (Quiz.java:237) - 38	;	sleeping 
+[Jul 04 16:25:32] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:25:32] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:25:32] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:25:32] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:25:32] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:25:32] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:25:32] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:50:43] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 16:50:47] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 16:50:47] INFO  (Quiz.java:136) - name : 
+[Jul 04 16:50:49] INFO  (Quiz.java:138) - password : 
+[Jul 04 16:50:51] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 16:50:51] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 16:50:51] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 16:50:51] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:50:51] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:50:51] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:50:51] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:50:51] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:50:51] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:50:51] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 0JavaWhat is Java?
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 1sportswhat is cricket
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 2sportssports is what
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 3pythonWHAT IS PYTHON
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 4sportsWHAT IS CRICK
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 5Coocking question
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 6Javaccccccccccccccccccc
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 7cookingIUSHGQOEIDGRB
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 8cookingepzoufbqzpiugfb
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 9cookingaizuobdpsvb
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 10cookingvnvquopudsfgbpigu
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 11javaaze
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 12javaqsdqzuiezd
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 13javajava question
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 14javavsmkjs
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 15javaadakjnob msmkvb
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 16javamdoibnh
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 17javajkdfgnkjdsfm
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 18javakjsbvdpvoummdf
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 19javamvlkjdsfngmpois
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 20javalskjdgnpmsoidg
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 21javalqhsbfgqoiuldsfb
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 22adsadsfsd
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 23javajava is 
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 24javaalkcbhjzsvdliub
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 25javaizugfbqis
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 26javahjtfdutkfku
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 27javadhyjtduj
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 28javajhtfiykufiyu
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 29javaldushg
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 30cookingldkfhgsdbmll
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 31javadfdhfgjghkmjk
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 32javajava updated
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 33cookingvlkdsjbfvpqsd
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 34sportqqqyuksldgc
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 35javaedieted question
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 36javawhat is playing 
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 37gamerwhat is gammer?
+[Jul 04 16:50:54] INFO  (Quiz.java:237) - 38sleepingsleeping 
+[Jul 04 16:50:54] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:50:54] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:50:54] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:50:54] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:50:54] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:50:54] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:50:54] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:52:07] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 16:52:12] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 16:52:12] INFO  (Quiz.java:136) - name : 
+[Jul 04 16:52:14] INFO  (Quiz.java:138) - password : 
+[Jul 04 16:52:16] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 16:52:16] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 16:52:16] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 16:52:16] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:52:16] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:52:16] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:52:16] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:52:16] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:52:16] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:52:16] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 0 Java What is Java?
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 1 sports what is cricket
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 2 sports sports is what
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 3 python WHAT IS PYTHON
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 4 sports WHAT IS CRICK
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 5 Coocking  question
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 6 Java ccccccccccccccccccc
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 7 cooking IUSHGQOEIDGRB
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 8 cooking epzoufbqzpiugfb
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 9 cooking aizuobdpsvb
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 10 cooking vnvquopudsfgbpigu
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 11 java aze
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 12 java qsdqzuiezd
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 13 java java question
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 14 java vsmkjs
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 15 java adakjnob msmkvb
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 16 java mdoibnh
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 17 java jkdfgnkjdsfm
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 18 java kjsbvdpvoummdf
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 19 java mvlkjdsfngmpois
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 20 java lskjdgnpmsoidg
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 21 java lqhsbfgqoiuldsfb
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 22 ads adsfsd
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 23 java java is 
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 24 java alkcbhjzsvdliub
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 25 java izugfbqis
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 26 java hjtfdutkfku
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 27 java dhyjtduj
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 28 java jhtfiykufiyu
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 29 java ldushg
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 30 cooking ldkfhgsdbmll
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 31 java dfdhfgjghkmjk
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 32 java java updated
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 33 cooking vlkdsjbfvpqsd
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 34 sportqqq yuksldgc
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 35 java edieted question
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 36 java what is playing 
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 37 gamer what is gammer?
+[Jul 04 16:52:26] INFO  (Quiz.java:237) - 38 sleeping sleeping 
+[Jul 04 16:52:26] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:52:26] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:52:26] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:52:26] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:52:26] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:52:26] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:52:26] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:52:37] INFO  (Quiz.java:191) - 2
+[Jul 04 16:52:37] INFO  (Question.java:67) - Enter the topic
+[Jul 04 16:53:34] INFO  (Question.java:70) - Enter dificulty Level (1,2,3) : 
+[Jul 04 16:53:37] INFO  (Question.java:73) - Enter a Question
+[Jul 04 16:53:50] INFO  (Question.java:76) - How many choices do u want to add 
+[Jul 04 16:53:53] INFO  (Question.java:91) - Enter  choice
+[Jul 04 16:53:54] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 16:53:55] INFO  (Question.java:91) - Enter  choice
+[Jul 04 16:53:56] INFO  (Question.java:94) - is valid choice Y/N
+[Jul 04 16:53:57] INFO  (QuestionDAO.java:53) - Question added successfully...
+[Jul 04 16:53:57] INFO  (Quiz.java:195) - Do you want to add one more question (Y/N) : 
+[Jul 04 16:54:00] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:54:00] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:54:00] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:54:00] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:54:00] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:54:00] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:54:00] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 0 Java What is Java?
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 1 sports what is cricket
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 2 sports sports is what
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 3 python WHAT IS PYTHON
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 4 sports WHAT IS CRICK
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 5 Coocking  question
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 6 Java ccccccccccccccccccc
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 7 cooking IUSHGQOEIDGRB
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 8 cooking epzoufbqzpiugfb
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 9 cooking aizuobdpsvb
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 10 cooking vnvquopudsfgbpigu
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 11 java aze
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 12 java qsdqzuiezd
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 13 java java question
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 14 java vsmkjs
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 15 java adakjnob msmkvb
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 16 java mdoibnh
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 17 java jkdfgnkjdsfm
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 18 java kjsbvdpvoummdf
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 19 java mvlkjdsfngmpois
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 20 java lskjdgnpmsoidg
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 21 java lqhsbfgqoiuldsfb
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 22 ads adsfsd
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 23 java java is 
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 24 java alkcbhjzsvdliub
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 25 java izugfbqis
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 26 java hjtfdutkfku
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 27 java dhyjtduj
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 28 java jhtfiykufiyu
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 29 java ldushg
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 30 cooking ldkfhgsdbmll
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 31 java dfdhfgjghkmjk
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 32 java java updated
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 33 cooking vlkdsjbfvpqsd
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 34 sportqqq yuksldgc
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 35 java edieted question
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 36 java what is playing 
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 37 gamer what is gammer?
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 38 sleeping sleeping 
+[Jul 04 16:54:05] INFO  (Quiz.java:237) - 39 sleeping sleepppp
+[Jul 04 16:54:05] INFO  (Quiz.java:204) - Enter question number to delete:
+[Jul 04 16:54:25] INFO  (OptionsDAO.java:80) - Deleteddd........
+[Jul 04 16:54:25] INFO  (Quiz.java:208) - Deleted Successfully
+[Jul 04 16:54:25] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:54:25] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:54:25] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:54:25] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:54:25] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:54:25] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:54:25] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 0 Java What is Java?
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 1 sports what is cricket
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 2 sports sports is what
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 3 python WHAT IS PYTHON
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 4 sports WHAT IS CRICK
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 5 Coocking  question
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 6 Java ccccccccccccccccccc
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 7 cooking IUSHGQOEIDGRB
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 8 cooking epzoufbqzpiugfb
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 9 cooking aizuobdpsvb
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 10 cooking vnvquopudsfgbpigu
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 11 java aze
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 12 java qsdqzuiezd
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 13 java java question
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 14 java vsmkjs
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 15 java adakjnob msmkvb
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 16 java mdoibnh
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 17 java jkdfgnkjdsfm
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 18 java kjsbvdpvoummdf
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 19 java mvlkjdsfngmpois
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 20 java lskjdgnpmsoidg
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 21 java lqhsbfgqoiuldsfb
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 22 java java is 
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 23 java alkcbhjzsvdliub
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 24 java izugfbqis
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 25 java hjtfdutkfku
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 26 java dhyjtduj
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 27 java jhtfiykufiyu
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 28 java ldushg
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 29 cooking ldkfhgsdbmll
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 30 java dfdhfgjghkmjk
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 31 java java updated
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 32 cooking vlkdsjbfvpqsd
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 33 sportqqq yuksldgc
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 34 java edieted question
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 35 java what is playing 
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 36 gamer what is gammer?
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 37 sleeping sleeping 
+[Jul 04 16:54:28] INFO  (Quiz.java:237) - 38 sleeping sleepppp
+[Jul 04 16:54:28] INFO  (Quiz.java:172) - Menu
+[Jul 04 16:54:28] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 16:54:28] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 16:54:28] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 16:54:28] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 16:54:28] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 16:54:28] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 17:13:10] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 17:13:13] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 17:13:18] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 17:13:18] INFO  (Student.java:61) - Could not find student with studentId=4
+[Jul 04 17:13:18] INFO  (Student.java:62) - Enter name..
+[Jul 04 17:13:28] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 17:13:28] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=cooking, 3=gamer, 4=java, 5=python, 6=sleeping, 7=sportqqq, 8=sports}
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 2.  cooking
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 3.  gamer
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 4.  java
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 5.  python
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 6.  sleeping
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 7.  sportqqq
+[Jul 04 17:13:28] INFO  (Quiz.java:63) - 8.  sports
+[Jul 04 17:13:28] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 17:14:12] INFO  (Quiz.java:81) - Enter difficulty level (1. Easy 2. Medium 3. Hard) : 
+[Jul 04 17:14:15] INFO  (Quiz.java:126) - No questions available with selected options 
+[Jul 04 17:14:46] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 17:15:09] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 17:15:33] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 17:15:33] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 17:15:33] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=cooking, 3=gamer, 4=java, 5=python, 6=sleeping, 7=sportqqq, 8=sports}
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 2.  cooking
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 3.  gamer
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 4.  java
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 5.  python
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 6.  sleeping
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 7.  sportqqq
+[Jul 04 17:15:33] INFO  (Quiz.java:63) - 8.  sports
+[Jul 04 17:15:33] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 17:15:38] INFO  (Quiz.java:81) - Enter difficulty level (1. Easy 2. Medium 3. Hard) : 
+[Jul 04 17:15:40] INFO  (Quiz.java:100) - sleepppp
+[Jul 04 17:15:40] INFO  (Quiz.java:103) - 1. vdhvbl
+[Jul 04 17:15:40] INFO  (Quiz.java:103) - 2. vdkjbvh
+[Jul 04 17:15:40] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 17:15:44] INFO  (Quiz.java:122) - Student ID : 4, Student Name : Leela Jyothi Correct answers = 1, Total questions = 1, Topic = sleeping, Difficulty Level = 3
+[Jul 04 17:40:05] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 17:40:09] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 17:40:09] INFO  (Quiz.java:136) - name : 
+[Jul 04 17:40:11] INFO  (Quiz.java:138) - password : 
+[Jul 04 17:40:13] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 17:40:13] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 17:40:13] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 17:40:13] INFO  (Quiz.java:172) - Menu
+[Jul 04 17:40:13] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 17:40:13] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 17:40:13] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 17:40:13] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 17:40:13] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 17:40:13] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 0Topic - JavaQuestion - What is Java?
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 1Topic - sportsQuestion - what is cricket
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 2Topic - sportsQuestion - sports is what
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 3Topic - pythonQuestion - WHAT IS PYTHON
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 4Topic - sportsQuestion - WHAT IS CRICK
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 5Topic - Coocking Question - question
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 6Topic - JavaQuestion - ccccccccccccccccccc
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 7Topic - cookingQuestion - IUSHGQOEIDGRB
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 8Topic - cookingQuestion - epzoufbqzpiugfb
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 9Topic - cookingQuestion - aizuobdpsvb
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 10Topic - cookingQuestion - vnvquopudsfgbpigu
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 11Topic - javaQuestion - aze
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 12Topic - javaQuestion - qsdqzuiezd
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 13Topic - javaQuestion - java question
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 14Topic - javaQuestion - vsmkjs
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 15Topic - javaQuestion - adakjnob msmkvb
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 16Topic - javaQuestion - mdoibnh
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 17Topic - javaQuestion - jkdfgnkjdsfm
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 18Topic - javaQuestion - kjsbvdpvoummdf
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 19Topic - javaQuestion - mvlkjdsfngmpois
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 20Topic - javaQuestion - lskjdgnpmsoidg
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 21Topic - javaQuestion - lqhsbfgqoiuldsfb
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 22Topic - javaQuestion - java is 
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 23Topic - javaQuestion - alkcbhjzsvdliub
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 24Topic - javaQuestion - izugfbqis
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 25Topic - javaQuestion - hjtfdutkfku
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 26Topic - javaQuestion - dhyjtduj
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 27Topic - javaQuestion - jhtfiykufiyu
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 28Topic - javaQuestion - ldushg
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 29Topic - cookingQuestion - ldkfhgsdbmll
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 30Topic - javaQuestion - dfdhfgjghkmjk
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 31Topic - javaQuestion - java updated
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 32Topic - cookingQuestion - vlkdsjbfvpqsd
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 33Topic - sportqqqQuestion - yuksldgc
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 34Topic - javaQuestion - edieted question
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 35Topic - javaQuestion - what is playing 
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 36Topic - gamerQuestion - what is gammer?
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 37Topic - sleepingQuestion - sleeping 
+[Jul 04 17:40:16] INFO  (Quiz.java:237) - 38Topic - sleepingQuestion - sleepppp
+[Jul 04 17:40:16] INFO  (Quiz.java:172) - Menu
+[Jul 04 17:40:16] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 17:40:16] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 17:40:16] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 17:40:16] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 17:40:16] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 17:40:16] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 17:42:07] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 17:42:14] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 17:42:14] INFO  (Quiz.java:136) - name : 
+[Jul 04 17:42:17] INFO  (Quiz.java:138) - password : 
+[Jul 04 17:42:19] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 17:42:19] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 17:42:19] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 17:42:19] INFO  (Quiz.java:172) - Menu
+[Jul 04 17:42:19] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 17:42:19] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 17:42:19] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 17:42:19] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 17:42:19] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 17:42:19] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 0 Topic - Java - Question - What is Java?
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 1 Topic - sports - Question - what is cricket
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 2 Topic - sports - Question - sports is what
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 3 Topic - python - Question - WHAT IS PYTHON
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 4 Topic - sports - Question - WHAT IS CRICK
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 5 Topic - Coocking  - Question - question
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 6 Topic - Java - Question - ccccccccccccccccccc
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 7 Topic - cooking - Question - IUSHGQOEIDGRB
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 8 Topic - cooking - Question - epzoufbqzpiugfb
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 9 Topic - cooking - Question - aizuobdpsvb
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 10 Topic - cooking - Question - vnvquopudsfgbpigu
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 11 Topic - java - Question - aze
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 12 Topic - java - Question - qsdqzuiezd
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 13 Topic - java - Question - java question
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 14 Topic - java - Question - vsmkjs
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 15 Topic - java - Question - adakjnob msmkvb
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 16 Topic - java - Question - mdoibnh
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 17 Topic - java - Question - jkdfgnkjdsfm
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 18 Topic - java - Question - kjsbvdpvoummdf
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 19 Topic - java - Question - mvlkjdsfngmpois
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 20 Topic - java - Question - lskjdgnpmsoidg
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 21 Topic - java - Question - lqhsbfgqoiuldsfb
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 22 Topic - java - Question - java is 
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 23 Topic - java - Question - alkcbhjzsvdliub
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 24 Topic - java - Question - izugfbqis
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 25 Topic - java - Question - hjtfdutkfku
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 26 Topic - java - Question - dhyjtduj
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 27 Topic - java - Question - jhtfiykufiyu
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 28 Topic - java - Question - ldushg
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 29 Topic - cooking - Question - ldkfhgsdbmll
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 30 Topic - java - Question - dfdhfgjghkmjk
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 31 Topic - java - Question - java updated
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 32 Topic - cooking - Question - vlkdsjbfvpqsd
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 33 Topic - sportqqq - Question - yuksldgc
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 34 Topic - java - Question - edieted question
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 35 Topic - java - Question - what is playing 
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 36 Topic - gamer - Question - what is gammer?
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 37 Topic - sleeping - Question - sleeping 
+[Jul 04 17:42:21] INFO  (Quiz.java:237) - 38 Topic - sleeping - Question - sleepppp
+[Jul 04 17:42:21] INFO  (Quiz.java:172) - Menu
+[Jul 04 17:42:21] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 17:42:21] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 17:42:21] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 17:42:21] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 17:42:21] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 17:42:21] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 17:43:08] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 17:43:10] INFO  (Quiz.java:130) - Enter name and password
+[Jul 04 17:43:10] INFO  (Quiz.java:136) - name : 
+[Jul 04 17:43:14] INFO  (Quiz.java:138) - password : 
+[Jul 04 17:43:16] INFO  (Quiz.java:144) - ****************************************************
+[Jul 04 17:43:16] INFO  (Quiz.java:145) - *****************Welcome*************************
+[Jul 04 17:43:16] INFO  (Quiz.java:146) - ****************************************************
+[Jul 04 17:43:16] INFO  (Quiz.java:172) - Menu
+[Jul 04 17:43:16] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 17:43:16] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 17:43:16] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 17:43:16] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 17:43:16] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 17:43:16] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 0 Topic - Java - - What is Java?
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 1 Topic - sports - - what is cricket
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 2 Topic - sports - - sports is what
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 3 Topic - python - - WHAT IS PYTHON
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 4 Topic - sports - - WHAT IS CRICK
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 5 Topic - Coocking  - - question
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 6 Topic - Java - - ccccccccccccccccccc
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 7 Topic - cooking - - IUSHGQOEIDGRB
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 8 Topic - cooking - - epzoufbqzpiugfb
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 9 Topic - cooking - - aizuobdpsvb
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 10 Topic - cooking - - vnvquopudsfgbpigu
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 11 Topic - java - - aze
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 12 Topic - java - - qsdqzuiezd
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 13 Topic - java - - java question
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 14 Topic - java - - vsmkjs
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 15 Topic - java - - adakjnob msmkvb
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 16 Topic - java - - mdoibnh
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 17 Topic - java - - jkdfgnkjdsfm
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 18 Topic - java - - kjsbvdpvoummdf
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 19 Topic - java - - mvlkjdsfngmpois
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 20 Topic - java - - lskjdgnpmsoidg
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 21 Topic - java - - lqhsbfgqoiuldsfb
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 22 Topic - java - - java is 
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 23 Topic - java - - alkcbhjzsvdliub
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 24 Topic - java - - izugfbqis
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 25 Topic - java - - hjtfdutkfku
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 26 Topic - java - - dhyjtduj
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 27 Topic - java - - jhtfiykufiyu
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 28 Topic - java - - ldushg
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 29 Topic - cooking - - ldkfhgsdbmll
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 30 Topic - java - - dfdhfgjghkmjk
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 31 Topic - java - - java updated
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 32 Topic - cooking - - vlkdsjbfvpqsd
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 33 Topic - sportqqq - - yuksldgc
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 34 Topic - java - - edieted question
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 35 Topic - java - - what is playing 
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 36 Topic - gamer - - what is gammer?
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 37 Topic - sleeping - - sleeping 
+[Jul 04 17:43:19] INFO  (Quiz.java:237) - 38 Topic - sleeping - - sleepppp
+[Jul 04 17:43:19] INFO  (Quiz.java:172) - Menu
+[Jul 04 17:43:19] INFO  (Quiz.java:174) - 1. View All Question
+[Jul 04 17:43:19] INFO  (Quiz.java:175) - 2. Add Question
+[Jul 04 17:43:19] INFO  (Quiz.java:176) - 3. Delete Question
+[Jul 04 17:43:19] INFO  (Quiz.java:177) - 4. Update
+[Jul 04 17:43:19] INFO  (Quiz.java:178) - 5. Exit
+[Jul 04 17:43:19] INFO  (Quiz.java:180) - Enter an Option
+[Jul 04 19:03:28] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 19:03:36] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 19:03:45] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 19:03:45] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 19:03:45] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=cooking, 3=gamer, 4=java, 5=python, 6=sleeping, 7=sportqqq, 8=sports}
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 2.  cooking
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 3.  gamer
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 4.  java
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 5.  python
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 6.  sleeping
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 7.  sportqqq
+[Jul 04 19:03:45] INFO  (Quiz.java:63) - 8.  sports
+[Jul 04 19:03:45] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 19:03:50] INFO  (Quiz.java:81) - Enter difficulty level (1. Easy 2. Medium 3. Hard) : 
+[Jul 04 19:03:53] INFO  (Quiz.java:100) - sleepppp
+[Jul 04 19:03:53] INFO  (Quiz.java:103) - 1. vdhvbl
+[Jul 04 19:03:53] INFO  (Quiz.java:103) - 2. vdkjbvh
+[Jul 04 19:03:53] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 19:03:56] INFO  (Quiz.java:122) - Student ID : 123, Student Name : Ramu Correct answers = 1, Total questions = 1, Topic = sleeping, Difficulty Level = 3
+[Jul 04 21:21:37] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 21:21:44] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 21:21:48] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 21:21:48] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 21:21:48] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=cooking, 3=gamer, 4=java, 5=python, 6=sleeping, 7=sportqqq, 8=sports}
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 2.  cooking
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 3.  gamer
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 4.  java
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 5.  python
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 6.  sleeping
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 7.  sportqqq
+[Jul 04 21:21:48] INFO  (Quiz.java:63) - 8.  sports
+[Jul 04 21:21:48] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 21:21:53] INFO  (Quiz.java:81) - Enter difficulty level (1. Easy 2. Medium 3. Hard) : 
+[Jul 04 21:21:55] INFO  (Quiz.java:100) - question
+[Jul 04 21:21:55] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 21:21:59] INFO  (Quiz.java:116) - Invalid option, Please try again...
+[Jul 04 21:22:09] INFO  (Quiz.java:50) - Do you want to continue as a student......?  Y/N
+[Jul 04 21:22:12] INFO  (Student.java:39) - Enter Student Id
+[Jul 04 21:22:16] INFO  (Student.java:54) - Authenticating.......
+[Jul 04 21:22:16] INFO  (Quiz.java:54) - Select a topic..
+[Jul 04 21:22:16] INFO  (Quiz.java:59) - {0=Coocking , 1=Java, 2=cooking, 3=gamer, 4=java, 5=python, 6=sleeping, 7=sportqqq, 8=sports}
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 0.  Coocking 
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 1.  Java
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 2.  cooking
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 3.  gamer
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 4.  java
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 5.  python
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 6.  sleeping
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 7.  sportqqq
+[Jul 04 21:22:16] INFO  (Quiz.java:63) - 8.  sports
+[Jul 04 21:22:16] INFO  (Quiz.java:69) - Enter topic number
+[Jul 04 21:22:20] INFO  (Quiz.java:81) - Enter difficulty level (1. Easy 2. Medium 3. Hard) : 
+[Jul 04 21:22:22] INFO  (Quiz.java:100) - What is Java?
+[Jul 04 21:22:22] INFO  (Quiz.java:103) - 1. Language
+[Jul 04 21:22:22] INFO  (Quiz.java:103) - 2. sports
+[Jul 04 21:22:22] INFO  (Quiz.java:103) - 3. play
+[Jul 04 21:22:22] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 21:22:25] INFO  (Quiz.java:100) - ccccccccccccccccccc
+[Jul 04 21:22:25] INFO  (Quiz.java:103) - 1. c1
+[Jul 04 21:22:25] INFO  (Quiz.java:103) - 2. c2
+[Jul 04 21:22:25] INFO  (Quiz.java:105) - Enter your option (option number): 
+[Jul 04 21:22:27] INFO  (Quiz.java:122) - Student ID : 12, Student Name : Harish Correct answers = 2, Total questions = 2, Topic = Java, Difficulty Level = 1
